@@ -1,0 +1,15 @@
+C:\Users\20221014040003\Desktop\udp\udpClient\bin\Debug\net7.0\udpClient.exe
+C:\Users\20221014040003\Desktop\udp\udpClient\bin\Debug\net7.0\udpClient.deps.json
+C:\Users\20221014040003\Desktop\udp\udpClient\bin\Debug\net7.0\udpClient.runtimeconfig.json
+C:\Users\20221014040003\Desktop\udp\udpClient\bin\Debug\net7.0\udpClient.dll
+C:\Users\20221014040003\Desktop\udp\udpClient\bin\Debug\net7.0\udpClient.pdb
+C:\Users\20221014040003\Desktop\udp\udpClient\obj\Debug\net7.0\udpClient.csproj.AssemblyReference.cache
+C:\Users\20221014040003\Desktop\udp\udpClient\obj\Debug\net7.0\udpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20221014040003\Desktop\udp\udpClient\obj\Debug\net7.0\udpClient.AssemblyInfoInputs.cache
+C:\Users\20221014040003\Desktop\udp\udpClient\obj\Debug\net7.0\udpClient.AssemblyInfo.cs
+C:\Users\20221014040003\Desktop\udp\udpClient\obj\Debug\net7.0\udpClient.csproj.CoreCompileInputs.cache
+C:\Users\20221014040003\Desktop\udp\udpClient\obj\Debug\net7.0\udpClient.dll
+C:\Users\20221014040003\Desktop\udp\udpClient\obj\Debug\net7.0\refint\udpClient.dll
+C:\Users\20221014040003\Desktop\udp\udpClient\obj\Debug\net7.0\udpClient.pdb
+C:\Users\20221014040003\Desktop\udp\udpClient\obj\Debug\net7.0\udpClient.genruntimeconfig.cache
+C:\Users\20221014040003\Desktop\udp\udpClient\obj\Debug\net7.0\ref\udpClient.dll
